@@ -1,0 +1,79 @@
+body{
+    font-family: 'Manrope',Helvetica;
+  }
+  h3{
+    font-weight: bold;
+    
+    
+  }
+  .navbar h1{ 
+    color:#FFE5B4;
+    margin: 0 auto;
+    padding-top: 15;
+    font-family: 'Manrope', sans-serif;
+    text-transform: uppercase;
+    font-size: xx-large;
+    width: 100%;
+    letter-spacing: 7;
+    text-align: end;
+    height: 40px;  
+  }
+  .navbar{
+    background-color:rgb(255, 81, 0);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100% ;
+  }
+  .navbar a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    letter-spacing: 5;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+    
+  .navbar a:hover {
+    background:skyblue;
+    color: black;
+    font-size: 120%;
+  }
+  .formcontainer{
+    width: 100%;
+    background-color: skyblue;
+  }
+  input[type=text],textarea{
+    width:70% ; 
+    padding:10Px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: 5px;
+  }
+  input[type=submit]{
+    background-color:green;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  input[type=submit]:hover {
+    background-color: #45a049;
+    }
+  p{
+    font-style: italic;
+  }
+  .content {
+    color:black;
+    padding: 100px 0 20px 20px;
+    height:700px;
+  }
+  img{
+    width: 300px;
+    height:200px;
+    display: inline-block;
+    border: 5px solid #555;
+  }
