@@ -17,7 +17,8 @@ body{
     width: 100%;
     letter-spacing: 7;
     text-align: end;
-    height: 40px;  
+    height: 40px; 
+      
   }
   .navbar{
     background-color:rgb(255, 81, 0);
@@ -35,6 +36,7 @@ body{
     letter-spacing: 5;
     text-transform: uppercase;
     text-decoration: none;
+       background-color: chocolate
   }
     
   .navbar a:hover {
