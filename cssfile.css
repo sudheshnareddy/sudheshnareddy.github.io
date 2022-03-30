@@ -1,6 +1,6 @@
 body{
     font-family: 'Manrope',Helvetica;
-    background-color:rgb(221, 235, 158);
+    background-color:cadetblue;
   }
   h3{
     font-weight: bold;
@@ -44,7 +44,7 @@ body{
   }
   .formcontainer{
     width: 100%;
-    background-color: skyblue;
+    background-color: rgb(115, 233, 168);
   }
   input[type=text],textarea{
     width:70% ; 
